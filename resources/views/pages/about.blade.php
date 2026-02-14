@@ -7,7 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>halaman saran</h1>
+    <h1>halaman about</h1>
     
 </body>
 </html>
